@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C1DB2B5A-5CB1-40CD-A2B5-09CA3A82C6C4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>First-To-Upload</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B3E4DF89-1E2A-4851-A3B3-2435771B77EA</key>
+		<string>https://github.com/angyalg/first-test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>First-To-Upload/First-To-Upload.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B3E4DF89-1E2A-4851-A3B3-2435771B77EA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/angyalg/first-test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B3E4DF89-1E2A-4851-A3B3-2435771B77EA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B3E4DF89-1E2A-4851-A3B3-2435771B77EA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>first-test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
